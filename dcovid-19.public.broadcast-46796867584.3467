@@ -1,0 +1,34 @@
+dcovid-19.public.broadcast () 
+{ 
+    # Add this as a library or call
+    # it directly from a bash
+    # shell.  Requires: 
+    # access to the dogecoin-cli command 
+    # https://github.com/johnrigler/unspendable
+    # python3
+    # php
+    function - () 
+    { 
+        un 9s $*
+    };
+    function un () 
+    { 
+        FIRST=$1;
+        shift;
+        REST="$*";
+        python3 ~/unspendable/unspendable.py "$FIRST" "$REST"
+    };
+    un D "covid-19 public broadcast";
+    - attention blockchain;
+    - reader. please rebroad-;
+    - cast this message at;
+    - eleven-thirty-two am gmt;
+    - with the dogecoin-cli;
+    - sendmany command;
+    - feel free to attach;
+    - responses in the;
+    - 9t namespace.
+}
+# Add New transactions below: 
+# 915d2681c26d8e713af084814447bbbd6237a649a4a2a628c10985888ce78d9b
+# 55365ba9ae8a50e9d042962e3bfc344ecea785bd5eda72c3cc2f36b18a873199
