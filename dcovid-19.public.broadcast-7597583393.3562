@@ -1,0 +1,35 @@
+dcovid-19.public.broadcast () 
+{ 
+    function - () 
+    { 
+        un 9s $*
+    };
+    function + () 
+    { 
+        un 9t $*
+    };
+    function un () 
+    { 
+        FIRST=$1;
+        shift;
+        REST="$*";
+        python3 ~/unspendable/unspendable.py "$FIRST" "$REST"
+    };
+    un D "covid-19 public broadcast";
+    - attention blockchain;
+    - reader. please rebroad-;
+    - cast this message at;
+    - eleven-thirty-two;
+    - with the dogecoin-cli;
+    - sendmany command;
+    - feel free to attach;
+    - responses in the;
+    - 9t namespace.;
+    + hello, this system;
+    + is apparently called;
+    + scryptless-scrypt;
+    + it is a Grahamian;
+    + REPL loop. I type;
+    + all this crap into;
+    + vim. i am root.
+}
