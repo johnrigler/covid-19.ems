@@ -1,7 +1,7 @@
 # covid-19.ems
 A scryptless-scrypt dogecoin emergency message system for COVID-19 communication
 
-The system is demonstrated below
+The system is demonstrated here:
 https://www.youtube.com/watch?v=VKXtsKNF2_c 
 
 
