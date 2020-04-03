@@ -12,3 +12,8 @@ https://github.com/johnrigler/unspendable
 python3
 
 dogecoind with some currency
+
+
+This project needs your donations to continue:   DMFvu6ZSUFu6jfeXnzYHHoEBKSJVpwryDw
+
+email: john@rigler.org 682-666-0614
